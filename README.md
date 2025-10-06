@@ -29,4 +29,6 @@ Tailwind CSS
 PostCSS 
 
 ## OUTPUT ##
-
+<img width="1412" height="962" alt="Image" src="https://github.com/user-attachments/assets/0dcf7fcb-e14f-491c-b54d-127714b91881" />
+<img width="1895" height="953" alt="Image" src="https://github.com/user-attachments/assets/9c19b4b3-28de-4730-ac44-c8f0b7da7603" />
+<img width="1889" height="957" alt="Image" src="https://github.com/user-attachments/assets/2eb92645-46a9-40ea-a7bb-e5c701f6b087" />
